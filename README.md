@@ -7,3 +7,5 @@
 - 👯 I’m looking to collaborate on data related projects
 - 📫 How to reach me: fp.limapereira@gmail.com
 - 🧑‍💼 My LinkedIn profile: https://www.linkedin.com/in/felipe-de-lima-pereira/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fplimapereira&layout=compact)](https://github.com/fplimapereira/github-readme-stats)
